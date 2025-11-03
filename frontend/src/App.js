@@ -12,7 +12,7 @@ export default function App(){
       <TodoProvider>
         <div style={{ maxWidth: 700, margin: '20px auto', padding: 10 }}>
           <Navbar />
-          <h2>Todo App (MERN + Context API)</h2>
+          <h2>React App (MERN + Context API)</h2>
           <Register />
           <hr />
           <Login />
